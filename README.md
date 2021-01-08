@@ -1,2 +1,2 @@
-# Ranking_users-api
+# ranking_users-api
 Users API
